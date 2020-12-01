@@ -1,0 +1,3 @@
+1. Service merupakan objek tunggal yang di instansiasikan sekali selama masa hidup dari suatu aplikasi. Perbedaan dengan class adalah angular service membuat atau menggunakan UI atau layanan yang telah tersedia sedangkan class mengatur kelas CSS pada element HTML yang mewakili semua class yang akan di tambahkan / update
+
+2.Pertama kita mengimport module dan komponen router dari angular, lalu import komponent halaman yang ingin kita lakukan routing, lalu mendefinisikan route yang diinginkan dengan memberikan 2 argumen yaitu pertama path / URL untuk ke halaman yang kita inginkan dan komponen dari halaman tersebut.
